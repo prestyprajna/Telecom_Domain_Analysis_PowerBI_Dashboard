@@ -33,5 +33,6 @@ Created a PowerBI dashboard for Telecom Domain Analysis
    e. Used Edit Interactions feature of PowerBI which is used to change the interaction of some visuals for the selected filter.
    
    f. Implemented button navigation using bookmark feature - used to show different visuals on click of a button.
-      Example - Top and Bottom buttons are created to show top 5 and bottom 5 records respectively on the click of the button
+   
+      Example - Top and Bottom buttons are created to show top 5 and bottom 5 records respectively on the click of the respective button.
     
