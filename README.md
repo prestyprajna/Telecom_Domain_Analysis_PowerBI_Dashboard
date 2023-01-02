@@ -23,10 +23,15 @@ Created a PowerBI dashboard for Telecom Domain Analysis
 5. Things learnt from the dashboard -
    
    a. Created big dashboard in PowerBI for the very first time and also got an opportunity to work in Telecom Domain.
+   
    b. Learned and implemented Bookmark feature of PowerBI.
+   
    c. Explored and used some new visuals like Waterfall Chart.
+   
    d. Learnt on how to clear all the filters at once upon clicking on a single button using Bookmark feature.
+   
    e. Used Edit Interactions feature of PowerBI which is used to change the interaction of some visuals for the selected filter.
+   
    f. Implemented button navigation using bookmark feature - used to show different visuals on click of a button.
       Example - Top and Bottom buttons are created to show top 5 and bottom 5 records respectively on the click of the button
     
