@@ -9,13 +9,18 @@ Created a PowerBI dashboard for Telecom Domain Analysis
 2. Steps involved in Dashboard - 
     
     a. Importing the dataset into PowerBI.
+    
     b. Cleaning/Reshaping the data using PowerQuery Editor.
+    
     c. Data Modelling is used to create relationship among fact and dimension tables using Model Tab in PowerBI.
+    
     d. Create Visuals using Report Tab in PowerBI. 
     
     
 3. Conclusions - 
-4. Things learnt from the dashboard -
+
+
+5. Things learnt from the dashboard -
    
    a. Created big dashboard in PowerBI for the very first time and also got an opportunity to work in Telecom Domain.
    b. Learned and implemented Bookmark feature of PowerBI.
